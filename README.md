@@ -1,0 +1,2 @@
+# icompa
+Interactive Comparison Analysis
